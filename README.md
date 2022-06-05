@@ -54,7 +54,7 @@ public class me{
 ```
 
 
-#### My GitHub Data :octocat:
+#### My GitHub Data
 > 🏆 More than 90 projects
  > 
 > 📜 1.8k+ Commits on GitHub
